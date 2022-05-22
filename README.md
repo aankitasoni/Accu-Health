@@ -1,1 +1,1 @@
-# Accu-Health
+# AccuHealth
